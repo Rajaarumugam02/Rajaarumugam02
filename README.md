@@ -3,9 +3,14 @@
 <h3 align="left"><About me</h3>
 <p>
   <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/e90c798bcb4db1784ec29244710e045c39270265f708f86baa07790e5b148e74/68747470733a2f2f636f6465616e646861636b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30392f44656275672d596f75722d436f64652d456666696369656e746c792e6a7067" />
-  completed my Bachelor of Engineering in Sri Ramakrishna institute of Technology<br>
-  Learning Frontend Development with Spotknack<br>
-  Fun fact about me : I like to watch movies
+  Completed Bachelor's degree in Sri Ramakrishna institute of Technology<br>
+  💬 Learning Frontend Development with Spotknack
+
+  📫 How to reach me   rajaarumugam281@gmail.com
+
+  Fun fact  : I like to watch movies
+
+
 </p>
 <h3 align="left"><Connect with me</h3>
 <h3 align="left">socials:</h3>
@@ -25,8 +30,8 @@
 <img src="https://camo.githubusercontent.com/803d9beb394524e7db9f15a41082391dfaf6670fd79c2f546194fd4b86115917/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f67697468756225323070616765732d3132313031333f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GithubPages" data-canonical-src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/bdb7731529e6563b08b823d27f981683f89fd666d434f6592cb901ba763277f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" alt="Figma" data-canonical-src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" style="max-width: 100%;">
 <h3 align="left">GitHub Stats:</h3>
-<div></div><img src="https://github-readme-stats.vercel.app/api?username=rajaarumugam02&show_icons=true&locale=en" alt="rajaarumugam02" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rajaarumugam02&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" style="max-width: 100%;"></div>
+<div></div><img src="https://github-readme-stats.vercel.app/api?username=rajaarumugam02&show_icons=true&locale=en" alt="rajaarumugam02" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rajaarumugam02&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" style="max-width: 100%;">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajaarumugam02&" alt="rajaarumugam02" /></p>
 <h3 align="left">GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajaarumugam02" alt="rajaarumugam02" /></a> </p>
 
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/e90c798bcb4db1784ec29244710e045c39270265f708f86baa07790e5b148e74/68747470733a2f2f636f6465616e646861636b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30392f44656275672d596f75722d436f64652d456666696369656e746c792e6a7067" />
