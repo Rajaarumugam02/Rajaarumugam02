@@ -1,6 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm RAJA P A</h1>
-
+<h3 align="left"><About me</h3>
+<p>
+  <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/e90c798bcb4db1784ec29244710e045c39270265f708f86baa07790e5b148e74/68747470733a2f2f636f6465616e646861636b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30392f44656275672d596f75722d436f64652d456666696369656e746c792e6a7067" />
+  completed my Bachelor of Engineering in Sri Ramakrishna institute of Technology<br>
+  Learning Frontend Development with Spotknack<br>
+  Fun fact about me : I like to watch movies
+</p>
 <h3 align="left"><Connect with me</h3>
 <h3 align="left">socials:</h3>
 <hr>
@@ -23,3 +29,4 @@
 <h3 align="left">GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajaarumugam02" alt="rajaarumugam02" /></a> </p>
 
+<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/e90c798bcb4db1784ec29244710e045c39270265f708f86baa07790e5b148e74/68747470733a2f2f636f6465616e646861636b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30392f44656275672d596f75722d436f64652d456666696369656e746c792e6a7067" />
