@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm RAJA P A</h1>
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left"><Connect with me</h3>
 <h3 align="left">socials:</h3>
 <hr>
 <p align="left">
@@ -18,7 +19,7 @@
 <img src="https://camo.githubusercontent.com/803d9beb394524e7db9f15a41082391dfaf6670fd79c2f546194fd4b86115917/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f67697468756225323070616765732d3132313031333f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GithubPages" data-canonical-src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/bdb7731529e6563b08b823d27f981683f89fd666d434f6592cb901ba763277f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" alt="Figma" data-canonical-src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" style="max-width: 100%;">
 <h3 align="left">GitHub Stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=rajaarumugam02&show_icons=true&locale=en" alt="rajaarumugam02" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rajaarumugam02&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" style="max-width: 100%;">
+<div></div><img src="https://github-readme-stats.vercel.app/api?username=rajaarumugam02&show_icons=true&locale=en" alt="rajaarumugam02" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rajaarumugam02&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" style="max-width: 100%;"></div>
 <h3 align="left">GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajaarumugam02" alt="rajaarumugam02" /></a> </p>
 
