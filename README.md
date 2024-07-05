@@ -3,7 +3,7 @@
 <h3 align="left"><About me</h3>
 <p>
   <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/e90c798bcb4db1784ec29244710e045c39270265f708f86baa07790e5b148e74/68747470733a2f2f636f6465616e646861636b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30392f44656275672d596f75722d436f64652d456666696369656e746c792e6a7067" />
-  Completed Bachelor's degree in Sri Ramakrishna institute of Technology<br>
+  👯 Completed Bachelor's degree in Sri Ramakrishna institute of Technology<br>
   💬 Learning Frontend Development with Spotknack
 
   📫 How to reach me   rajaarumugam281@gmail.com
