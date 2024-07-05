@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm RAJA P A</h1>
-<h3 align="left">Connect with me</h3>
+<h1 align="center"><p style="color:blue;">Hi 👋, I'm RAJA P A</h1>
+<h3 align="left"><p style="color:blue;">Connect with me</h3>
 <hr>
 
-<h3 align="left">socials:</h3>
+<h3 align="left"><a href="https://www.fujitsu-general.com/global/corporate/profile/index.html"></a>a>socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raja-p-a-901b8a250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raja-p-a-901b8a250" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/raja.arumugam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/raja.arumugam" height="30" width="40" /></a>
